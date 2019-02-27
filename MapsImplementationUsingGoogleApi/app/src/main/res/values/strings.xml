@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapsImplementation Using Google Api</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
